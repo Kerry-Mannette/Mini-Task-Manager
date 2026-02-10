@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mini-Task-Manager-Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5fac39051fb3f72d7cd52e8339ed1f8624cf8aa2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+32b85c306bef5272598a582dfccfc58423cddd5c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mini-Task-Manager-Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mini-Task-Manager-Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
